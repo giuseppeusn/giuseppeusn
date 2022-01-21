@@ -1,6 +1,6 @@
 ## Olá, meu nome é Giuseppe!
 
-<p>💻 Estudante de Desenvolvimento Web <p>
+### 💻 Estudante de Desenvolvimento Web
 
 <div>
   <a href="https://github.com/giuseppeusn">
