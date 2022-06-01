@@ -1,6 +1,6 @@
 ## Olá, meu nome é Giuseppe!
 
-### 💻 Estudante de Desenvolvimento Web
+### 💻 Estudante de Desenvolvimento Web - JavaScript | C++ | Python | PHP | React.js, Redux | Jest | RTL | HTML5 | CSS3 | MySQL | Arduino
 
 <p align="center">
   <a href="https://github.com/giuseppeusn">
