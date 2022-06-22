@@ -1,5 +1,5 @@
-<h1 align="center">Olá, meu nome é Giuseppe!</h1>
-<h2 align="center">Estudante de Desenvolvimento Web Full Stack na Trybe!</h2>
+<h1 align="center">Hello, I'm Giuseppe!</h1>
+<h2 align="center">Full-stack Web Development Student at Trybe!</h2>
 
 <div align="center">
   <a href="https://github.com/giuseppeusn">
@@ -9,7 +9,7 @@
 
 <div align="center">
   <div align="center">
-    <h3>Linguagens:</h3>
+    <h3>Languages:</h3>
     <img align="center" title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" title="CSS3"  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,7 +19,7 @@
   </div>
 
   <div>
-    <h3>Frameworks/Bibliotecas:</h3>
+    <h3>Frameworks/Libraries:</h3>
     <img align="center" title="Jest" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
     <img align="center" title="React.js" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img align="center" title="Redux.js" alt="Redux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
@@ -27,7 +27,7 @@
   </div>
   
   <div>
-    <h3>Prototipagem:</h3>
+    <h3>Prototyping:</h3>
     <img align="center" title="Arduino" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   </div>
 </div>
