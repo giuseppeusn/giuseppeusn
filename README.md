@@ -1,5 +1,10 @@
 <h1 align="center">Hello, I'm Giuseppe!</h1>
-<h2 align="center">Full-stack Web Development Student at Trybe!</h2>
+<p align="center">
+  I'm a Front-end developer, graduated in IT technician, student of Mechatronics Engineering and student of Full-stack Web Development at Trybe.
+  <br/>
+  <br/>
+  Driven by curiosity, I love technology and innovation. I'm interested in innovative and high-impact projects, aiming to make a difference!
+</p>
 
 <div align="center">
   <a href="https://github.com/giuseppeusn">
