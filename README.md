@@ -55,4 +55,6 @@
   <a href="https://www.linkedin.com/in/giuseppe-nunes/" target="_blank"><img  width="134" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<div align="center">
+  <img align="center" alt="Snake contribution" src="https://github.com/giuseppeusn/giuseppeusn/blob/output/github-contribution-grid-snake.svg" />
+</div>
