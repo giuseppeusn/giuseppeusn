@@ -55,7 +55,4 @@
   <a href="https://www.linkedin.com/in/giuseppe-nunes/" target="_blank"><img  width="134" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-  <img align="center" alt="Snake contribution" src="./profile-3d-contrib/profile-green-animate.svg />
-</div>
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
