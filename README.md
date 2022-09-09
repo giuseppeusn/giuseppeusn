@@ -56,6 +56,6 @@
 </div>
 
 <div align="center">
-  <img align="center" alt="Snake contribution" src="https://github.com/giuseppeusn/giuseppeusn/blob/output/github-contribution-grid-snake.svg" />
+  <img align="center" alt="Snake contribution" src="./profile-3d-contrib/profile-green-animate.svg />
 </div>
 
