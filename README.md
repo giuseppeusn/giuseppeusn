@@ -43,7 +43,7 @@
   <div>
     <h3>Prototyping:</h3>
     <img align="center" title="Arduino" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-    <img align="center" title="ESP8266" alt="Esp8266" height="25" src="http://visystem.ddns.net:7442/imagenes/esp8266.png" />
+    <img align="center" title="ESP8266" alt="Esp8266" height="25" src="https://www.makielectronic.com/fotos/grandes/esp8266.png" />
   </div>
 </div>
 
