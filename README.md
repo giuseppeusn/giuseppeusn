@@ -38,6 +38,7 @@
     <img align="center" title="MySQL" alt="Mysql" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" title="MongoDB" alt="Mongodb" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
     <img align="center" title="Mocha" alt="Mocha" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
+    <img align="center" title="Docker" alt="Mocha" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   </div>
   
   <div>
