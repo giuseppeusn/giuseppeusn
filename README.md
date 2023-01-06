@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Giuseppe!</h1>
 <p align="center">
-  I'm a Full-stack Web Developer, graduated in IT technician, student of Mechatronics Engineering.
+  I'm a Full-stack Web Developer, graduated in IT technician and student of Mechatronics Engineering.
   <br/>
   <br/>
   Driven by curiosity, I love technology and innovation. I'm interested in innovative and high-impact projects, aiming to make a difference!
